@@ -1,3 +1,0 @@
-# Azaquiel-Despliegues
-
-## Netlify
