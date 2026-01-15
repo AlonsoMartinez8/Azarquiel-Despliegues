@@ -105,9 +105,11 @@ git init
 git add .
 git commit -m "First commit"
 git branch -M main
-git remote add origin https://github.com/AlonsoMartinez8/AzarquielChatTest.git
+git remote add origin https://github.com/Username/RepoName.git
 git push -u origin main
 ```
+
+> Sustituir origen de ejemplo por el de nuestro repositorio.
 
 Si recargamos nuestro repositorio en GitHub, aparecerá nuestro código subido.
 
